@@ -1,20 +1,38 @@
-## Hi I'm Joselyne Sarinana  
+# 👋 Hi, I'm Joselyne Sarinana  
 **Business Analytics Graduate** | **Data Enthusiast**  
 
-### Current Focus  
-- Recent grad with a **Bachelor’s in Business Analytics** (GPA: 3.8).  
-- Passionate about using data to **improve workflows** (e.g., SQL, Excel, Python).  
+### 📚 Current Focus  
+- Recent graduate with a **Bachelor's in Business Analytics** (GPA: 3.8)  
+- Passionate about transforming raw data into actionable business insights  
+- Developing skills in **process optimization** and **operational analytics**  
 
-### Technical Skills  
-- **SQL**: Queries, joins, aggregations (see HR Analysis Project).  
-- **Excel**: PivotTables, VLOOKUP, data cleaning.  
-- **Visualization**: Tableau, Python (Pandas/Seaborn).  
+### 💻 Technical Skills  
+**▸ SQL**  
+- Querying, joins, aggregations - [HR Attrition Analysis](https://github.com/JoselyneSari/HR_dataset-SQL-project)  
+- Data validation and cleaning  
 
-### Projects  
-- [Customer Complaints Dashboard](link): Analyzed 60K+ records to identify trends.  
-- [HR Attrition Analysis](link): Used SQL to reduce turnover risks.  
+**▸ Excel**  
+- **Data Analysis**: PivotTables, trend analysis, and conditional formatting  
+- **Data Cleaning**: Standardized 60K+ records (removed duplicates, corrected dates)  
+- **Visualization**: Created charts to highlight key trends
 
-📫 **Let’s connect**: [LinkedIn](https://www.linkedin.com/in/joselyne-sarinana) | [Email](mailto:Joselyne.Sarinana75@gmail.com)  
+
+**▸ Other Tools**  
+- Python (Pandas, basic Seaborn/Matplotlib)  
+- Tableau, JMP
+- Rstudio 
+
+### 🚀 Featured Projects  
+[**Financial Consumer Complaints Analysis**](https://github.com/JoselyneSari/customer-complaints-dashboard)  
+- Analyzed **60,000+ records** from the Consumer Financial Protection Bureau using Excel  
+
+[**HR Attrition Analysis**](https://github.com/JoselyneSari/HR_dataset-SQL-project)  
+- SQL analysis of 1,500+ employee records  
+
+
+### 📫 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](your-linkedin-url)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:Joselyne.Sarinana75@gmail.com)  
 
 <!--
 **JoselyneSari/JoselyneSari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
