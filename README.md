@@ -12,7 +12,7 @@
 - Data validation and cleaning  
 
 **▸ Excel**  
-- **Data Analysis**: PivotTables, trend analysis, and conditional formatting  
+- **Data Analysis**: PivotTables, trend analysis, and conditional formatting  - [Customer_Complaints](https://github.com/JoselyneSari/customer-complaints-dashboard)  
 - **Data Cleaning**: Standardized 60K+ records (removed duplicates, corrected dates)  
 - **Visualization**: Created charts to highlight key trends
 
